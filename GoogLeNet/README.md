@@ -575,7 +575,7 @@ Scott Reed
 <p class="c8 c26"><span class="c1"></span></p>
 </body></html>
 
-For more detail report of GoogLeNet visit [here]("https://github.com/DhruvMakwana/Computer_Vision/blob/master/GoogLeNet/GoogLeNet%20Detail%20Report.pdf")
+For more detail report of GoogLeNet visit [here](https://github.com/DhruvMakwana/Computer_Vision/blob/master/GoogLeNet/GoogLeNet%20Detail%20Report.pdf)
 
 To implement GoogLeNet in keras using python script run `GoogLeNet_Keras.py` or to implement AlexNet in keras using notebook run `GoogLeNet_Keras.ipynb`
 
